@@ -1,0 +1,13 @@
+.create {
+    display: flex;
+    flex-direction: column;
+}
+
+.create-buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.create-hidden {
+    display: none;
+}

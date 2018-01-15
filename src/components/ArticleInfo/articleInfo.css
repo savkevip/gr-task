@@ -1,0 +1,10 @@
+.article-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.article-wrapper-hidden {
+    display: none;
+}

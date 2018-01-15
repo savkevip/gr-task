@@ -1,0 +1,14 @@
+.article {
+    flex-grow: 1;
+    width: 33%;
+    border: 1px solid #000;
+}
+
+.article-action-btns {
+    display: flex;
+    justify-content: space-around;
+}
+
+/*.article-hidden {*/
+     /*display: none;*/
+ /*}*/

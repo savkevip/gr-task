@@ -1,0 +1,14 @@
+.home {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.create-article-btn {
+    background-color: #378057;
+}
+
+.create-article-btn:hover {
+    background-color: #28800d;
+}
